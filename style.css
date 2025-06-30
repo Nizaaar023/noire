@@ -45,7 +45,7 @@ html {
   align-items: center;
   gap: 10px;
   position: relative;
-  z-index: 1; /* PENTING agar tidak ketutupan overlay */
+  z-index: 1;
 }
 
 
@@ -121,7 +121,7 @@ html {
 /* Halaman 2 */
 
 .container{
-    max-width: 400px;
+    max-width: 100%;
     margin: 0 auto;
     background: #201e1e;
     height: 100%;
