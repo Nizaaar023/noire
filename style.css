@@ -121,11 +121,10 @@ html {
 /* Halaman 2 */
 
 .container{
-    max-width: 100%;
+    width: 100%;
     margin: 0 auto;
     background: #201e1e;
     height: 100%;
-    background-image: url(backgrund3.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
