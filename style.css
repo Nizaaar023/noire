@@ -124,7 +124,7 @@ html {
     width: 100%;
     margin: 0 auto;
     background: #201e1e;
-    height: 100%;
+    height: 100vh;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
